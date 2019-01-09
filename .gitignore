@@ -1,5 +1,6 @@
 # Config
-assets/settings.json 
+assets/settings.json
+database.js
 
 # Logs
 logs
